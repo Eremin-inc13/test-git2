@@ -13,3 +13,6 @@ git branch - смотрим ветки
 git checkout - переходим на ветки
 
 git pull origin master - с github на комп
+
+git merge - лияние веток
+git branch -d название ветки - удаляем ветку с локального компа
