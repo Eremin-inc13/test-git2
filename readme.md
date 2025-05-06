@@ -11,3 +11,5 @@ git reset --hard - убирает все изменения
 
 git branch - смотрим ветки
 git checkout - переходим на ветки
+
+git pull origin master - с github на комп
